@@ -1,6 +1,6 @@
 /* Merge step*/
 void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
-    // B1: Khởi tạo vị trí cho từng mảng
+    // B1: Khởi tạo biến lưu vị trí cho phần tử cuối của từng mảng
     // Do ghi vào mảng gốc nums1, nên xét từ trước - sau sẽ bị ghi đè dữ liệu
     // So sánh ngược lại từ sau - trước, tìm vị trí cuối từng mảng
     int i = m - 1;     // nums1
