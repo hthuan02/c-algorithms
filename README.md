@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/hthuan02/c-algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hthuan02/c-algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hthuan02/c-algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | [0020-valid-parentheses](https://github.com/hthuan02/c-algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/hthuan02/c-algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/hthuan02/c-algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hthuan02/c-algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
