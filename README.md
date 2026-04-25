@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hthuan02/c-algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/hthuan02/c-algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/hthuan02/c-algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/hthuan02/c-algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hthuan02/c-algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -30,6 +31,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/hthuan02/c-algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/hthuan02/c-algorithms/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -39,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/hthuan02/c-algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/hthuan02/c-algorithms/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
